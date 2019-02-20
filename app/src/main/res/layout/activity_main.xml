@@ -27,8 +27,7 @@
         android:textAlignment="center"
         android:textColor="@color/colorPrimary"
         android:textSize="22sp"
-        android:textStyle="bold|italic"
-        />
+        android:textStyle="bold|italic" />
 
     <Button
         android:id="@+id/btn_main_join_now"
@@ -43,8 +42,7 @@
         android:textAllCaps="false"
         android:textSize="18sp"
         android:text="Join Now"
-        android:textColor="@android:color/white"
-        />
+        android:textColor="@android:color/white" />
 
     <Button
         android:id="@+id/btn_main_login"
@@ -60,7 +58,6 @@
         android:textAllCaps="false"
         android:textSize="18sp"
         android:text="Already have an Account? Login"
-        android:textColor="@android:color/white"
-        />
+        android:textColor="@android:color/white" />
 
 </RelativeLayout>
